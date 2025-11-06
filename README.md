@@ -13,5 +13,7 @@ visibility-seconds: 10 # The amount of seconds it takes for a chat message to di
 
 ## Commands
 **/ac reload** - Reloads the plugin.
+
 **/ac help** - Shows all commands and a usage guide.
+
 **/ac report** - Shows a debug report of the plugin
