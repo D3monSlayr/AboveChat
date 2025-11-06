@@ -1,6 +1,9 @@
 # AboveChat
 **AboveChat** is a plugin that displays whatever you chat above your head. 
 
+> [!TIP]
+> Visit this project on modrinth [here](https://modrinth.com/plugin/abovechat) to get more information.
+
 ## Features
 - **Chat** to display whatever you chat above your head.
 - **Sneak** to hide the chat
@@ -17,5 +20,3 @@ visibility-seconds: 10 # The amount of seconds it takes for a chat message to di
 **/ac help** - Shows all commands and a usage guide.
 
 **/ac report** - Shows a debug report of the plugin
-
-Visit this project on modrinth [here](https://modrinth.com/plugin/abovechat)
