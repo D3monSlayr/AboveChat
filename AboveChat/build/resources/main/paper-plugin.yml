@@ -1,0 +1,6 @@
+name: AboveChat
+version: '1.0-ALPHA'
+main: me.kyth.aboveChat.AboveChat
+api-version: '1.21'
+authors: [ Kythera ]
+description: AboveChat by Kyth.
